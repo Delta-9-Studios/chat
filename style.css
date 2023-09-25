@@ -1,4 +1,5 @@
 #chat3 .form-control {
+    body { background-color: green; }
     border-color: transparent;
     }
     
